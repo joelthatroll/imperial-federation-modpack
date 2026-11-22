@@ -110,6 +110,10 @@ file = "schematics/.gitkeep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "schematics/Main City.litematic"
+hash = "f3e3fdc75c0f71873235a1efab8aa6bf73b299d71f75be16b6cb13129ef088a9"
+
+[[files]]
 file = "servers.dat"
 hash = "b63bd0dbe9c24b38d7810c48d130abdf5a78375cc59ad499338b483c73e1259d"
 preserve = true
