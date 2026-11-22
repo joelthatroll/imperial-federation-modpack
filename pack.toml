@@ -1,0 +1,13 @@
+name = "Nation Pack"
+author = "Nation"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3bca0db9bbf8648f1e2a12f56b2e4763d747fcf1c35eb3eb5a5cba1fa06e2090"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "1.21.11"

@@ -1,0 +1,95 @@
+hash-format = "sha256"
+
+[[files]]
+file = "combatradar/config.json"
+hash = "7ab6a2ae9f84569fff2ed8488db3f96f8ef871d5f0010d901e0c75d78d3a3b5c"
+preserve = true
+
+[[files]]
+file = "config/jsMacros/Macros/.gitkeep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "mods/BetterF3-17.0.0-Fabric-1.21.11.jar"
+hash = "5afd333a11c012592d518de607cd0f8efa815316e5d9c5625c72efcffaab0943"
+
+[[files]]
+file = "mods/HealthBar-1.1-1.21.11-fabric.jar"
+hash = "17b78415c166670ea5cbef85ef40f683ee22eae8bb7a0ad469989b44b03f31c8"
+
+[[files]]
+file = "mods/appleskin-fabric-mc1.21.11-3.0.8.jar"
+hash = "04fe837be8f10bb5e6b999238594466c59bdb641a54512f19f1e67241d882ae3"
+
+[[files]]
+file = "mods/betterhurtcam-1.12.0+mc1.21.11.jar"
+hash = "b2e0b761e40798ec2e064181ab825c6085754f32cd7225d30d759c8d32959271"
+
+[[files]]
+file = "mods/civmodern-nodes-1.2.jar"
+hash = "7f1e9a16cde08d0a0bb9bdbfaaf38b02d807664a5ad17235bfa2eafa0c3e33d0"
+
+[[files]]
+file = "mods/cloth-config-21.11.153-fabric.jar"
+hash = "8a40c84e5ecde525acfb6c4e13b8002dacfca3ef9534d7faf6e8049656f423c8"
+
+[[files]]
+file = "mods/combatradar-1.7.10-1.21.11-fabric.jar"
+hash = "1fb5123c058b5a2abfe0096c39dc29723c49a4015c808aa9f519da5e242ad201"
+
+[[files]]
+file = "mods/continuity-3.0.1-beta.1+1.21.11.jar"
+hash = "1d4d4e86fb20bd0b078fcc518f4641d21985cc8bfaefa6dd49cfa1beff52ac83"
+
+[[files]]
+file = "mods/fabric-api-0.141.6+1.21.11.jar"
+hash = "bdff7fd7e220085cfad2ff9b1f40dde6534ae0b96cf378f97a374bc54cb9ed0f"
+
+[[files]]
+file = "mods/jsmacrosce-1.21.11-fabric-2.0.0-2.0.0.jar"
+hash = "76494b979491802e9bbcd935fd8ce7c23fedce0966051baf13b5638e106e1461"
+
+[[files]]
+file = "mods/litematica-fabric-1.21.11-0.26.16.jar"
+hash = "69df83a3d229a1fe77ddbeb54071a5ac07c2284ed4d623ea075d04e5f0a6d328"
+
+[[files]]
+file = "mods/litematica-printer-1.21.11-3.2.1B.jar"
+hash = "7f1f60ce4eb27cd2214167387a305d34cb3d95a6c31f0dc469ae0cd4a8770161"
+
+[[files]]
+file = "mods/malilib-fabric-1.21.11-0.27.20.jar"
+hash = "48461c24a560c68afc4042545b654d8d5ea3796a9339681485aed76a326f6ef3"
+
+[[files]]
+file = "mods/modmenu-17.0.1.jar"
+hash = "2eb2d6db9964fcf2e44e2be1e4d172b8c4e829e385c8f31636de94a1708c2076"
+
+[[files]]
+file = "mods/moreculling-fabric-1.21.11-1.6.2.jar"
+hash = "45e5e32cd33d38662db9fe45d15dc777c1503ac186522c4397d98c54ed0dda43"
+
+[[files]]
+file = "mods/nofogmod-1.0.0_fabric+mc1.21.11x.jar"
+hash = "38376acee0fb8f009754389073da57c98d44fd61ffb4e055fd57aecf734df84a"
+
+[[files]]
+file = "mods/owo-lib-0.13.0+1.21.11.jar"
+hash = "ded21de3e15288baad8a89f00476cf14427a1bbcdc4b184995dc78ff17e6ac40"
+
+[[files]]
+file = "mods/sodium-fabric-0.8.14+mc1.21.11.jar"
+hash = "fd2619eff5da6b9ba6304b8b72ac3fe132c30e0bd5d675e4581eda417a272f5d"
+
+[[files]]
+file = "mods/ukulib-1.10.2+1.21.11.jar"
+hash = "3af87dbb2b84f0cb5bc21da5fa3818d22780e30c8b6c02cce7afa37847b89aaf"
+
+[[files]]
+file = "schematics/.gitkeep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "servers.dat"
+hash = "b63bd0dbe9c24b38d7810c48d130abdf5a78375cc59ad499338b483c73e1259d"
+preserve = true
