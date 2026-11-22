@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "civmap/mp/play.civnodes.net/did_caves/8794265229978523055/map.sqlite"
+hash = "192adc5620b533a37c3a6ce068f95576b4ad7485e2fb10691c9d1d020e9d61c2"
+preserve = true
+
+[[files]]
+file = "civmap/mp/play.civnodes.net/overworld/-3858343421858870480/map.sqlite"
+hash = "e633711eb1272fb89b9d57c82337c8007ed80db1e4d0d12c61414ea801801899"
+preserve = true
+
+[[files]]
+file = "civmap/mp/play.civnodes.net/overworld/-7353499878317363233/map.sqlite"
+hash = "4afcee6de4e3dce902cf55d074b511ffa583956da28e9290df15dbf0b8a91efc"
+preserve = true
+
+[[files]]
+file = "civmap/mp/play.civnodes.net/void/2128674964855271483/map.sqlite"
+hash = "b879544effa920d8466ebf702abae405efac80cf37c5ae84ab043659bf3eb0f3"
+preserve = true
+
+[[files]]
 file = "combatradar/config.json"
 hash = "7ab6a2ae9f84569fff2ed8488db3f96f8ef871d5f0010d901e0c75d78d3a3b5c"
 preserve = true
