@@ -26,6 +26,11 @@ hash = "7ab6a2ae9f84569fff2ed8488db3f96f8ef871d5f0010d901e0c75d78d3a3b5c"
 preserve = true
 
 [[files]]
+file = "config/civmodern.properties"
+hash = "84cb2c92020f90e5424c6f7caeb9bb1c0a4ee6bff1541a48444e1d2caa741fc9"
+preserve = true
+
+[[files]]
 file = "config/jsMacros/Macros/.gitkeep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
