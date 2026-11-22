@@ -39,6 +39,14 @@ file = "config/jsMacros/Macros/.gitkeep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/jsMacros/Macros/Imperial Federation Quarry Bot/FcCore.js"
+hash = "ccd32ac8f8deee7afeb7129f3f7e293b3c66bbec6aa30fd97fce3ea55dededba"
+
+[[files]]
+file = "config/jsMacros/Macros/Imperial Federation Quarry Bot/quarry_bot.js"
+hash = "6fa400a40f3736c72fbb67d274d8b82607adc2f363a5dfdcb25133a0b50fbd8c"
+
+[[files]]
 file = "mods/BetterF3-17.0.0-Fabric-1.21.11.jar"
 hash = "5afd333a11c012592d518de607cd0f8efa815316e5d9c5625c72efcffaab0943"
 
